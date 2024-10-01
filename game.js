@@ -3,12 +3,12 @@ const endModal = document.getElementById('endModal');
 
 // Lista de imagens e frases
 const cardsData = [
-    { img: '../foto1.jpeg', phrase: 'orgulho!' },
-    { img: '../foto2.jpeg', phrase: 'gata pra krl <3' },
-    { img: '../foto3.jpeg', phrase: 'divertida!' },
-    { img: '../foto4.jpeg', phrase: 'inteligente!' },
-    { img: '../foto5.jpeg', phrase: 'companheira' },
-    { img: '../foto6.png', phrase: 'alguem que nao quero perder!' },
+    { img: './foto1.jpeg', phrase: 'orgulho!' },
+    { img: './foto2.jpeg', phrase: 'gata pra krl <3' },
+    { img: './foto3.jpeg', phrase: 'divertida!' },
+    { img: './foto4.jpeg', phrase: 'inteligente!' },
+    { img: './foto5.jpeg', phrase: 'companheira' },
+    { img: './foto6.png', phrase: 'alguem que nao quero perder!' },
 ];
 
 // Duplicar as cartas para formar os pares
