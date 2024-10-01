@@ -75,16 +75,16 @@ body {
         display: block;
     }
     
-    /* Estilo para o modal */
+   
     .modal {
-        display: none; /* Inicialmente escondido */
+        display: none; 
         position: fixed;
         z-index: 1;
         left: 0;
         top: 0;
         width: 100%;
         height: 100%;
-        background-color: rgba(0, 0, 0, 0.5); /* Fundo escuro semi-transparente */
+        background-color: rgba(0, 0, 0, 0.5); 
     }
     
     .modal-content {
@@ -113,16 +113,15 @@ body {
     }
     
     #playAgain {
-        background-color: #4CAF50; /* Verde */
-        color: white;
+        background-color: #4CAF50; 
     }
     
     #quit {
-        background-color: #f44336; /* Vermelho */
+        background-color: #f44336; 
         color: white;
     }
     
-    /* Estilo adicional para os botões ao passar o mouse */
+    
     .modal-content button:hover {
         opacity: 0.8;
     }
@@ -187,16 +186,16 @@ body {
     display: block;
 }
 
-/* Estilo para o modal */
+
 .modal {
-    display: none; /* Inicialmente escondido */
+    display: none; 
     position: fixed;
     z-index: 1;
     left: 0;
     top: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.5); /* Fundo escuro semi-transparente */
+    background-color: rgba(0, 0, 0, 0.5); 
 }
 
 .modal-content {
@@ -225,16 +224,16 @@ body {
 }
 
 #playAgain {
-    background-color: #4CAF50; /* Verde */
+    background-color: #4CAF50;
     color: white;
 }
 
 #quit {
-    background-color: #f44336; /* Vermelho */
+    background-color: #f44336;
     color: white;
 }
 
-/* Estilo adicional para os botões ao passar o mouse */
+
 .modal-content button:hover {
     opacity: 0.8;
 }
